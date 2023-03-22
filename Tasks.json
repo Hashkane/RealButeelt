@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task": "Buy Flowers",
+      "translate": "Цэцэг ав",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "task": "Get Shoes",
+      "translate": "Гутал ав",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "task": "Chair",
+      "translate": "Сандал",
+      "complete": false
+    },
+    {
+      "id": 4,
+      "task": "Desk",
+      "translate": "Ширээ",
+      "complete": false
+    }
+  ]
+}

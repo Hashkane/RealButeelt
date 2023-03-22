@@ -1,0 +1,23 @@
+{
+  "name": "typescript-crud-tasks",
+  "version": "1.0.0",
+  "description": "",
+  "exports": "./index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^8.2.1",
+    "@types/lowdb": "^1.0.11",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "inquirer": "^9.0.2",
+    "lowdb": "^3.0.0"
+  }
+}
